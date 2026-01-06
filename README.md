@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Emanuel Moya 👋
 
-<!--
-**osomoya94/osomoya94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer (Enfocado en Backend)**  
+Node.js • NestJS • TypeScript • PostgreSQL • React  
+📍 Catamarca, Argentina • 💼 Abierto a trabajar
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Soy estudiante Tecnico Supuperior en Desarrollo de Softwarey desarrollador full stack enfocado en **backend con Node/NestJS**.  
+Me gusta construir **APIs REST**, trabajar con **bases de datos** y armar proyectos prolijos con buenas prácticas.
+
+- ✅ APIs REST + autenticación (JWT)
+- ✅ PostgreSQL + TypeORM
+- ✅ Trabajo en equipo con Git/GitHub (branches, PRs)
+- ✅ Aprendizaje constante y enfoque en mejorar cada entrega
+
+---
+
+## Stack
+- **Lenguajes:** JavaScript, TypeScript  
+- **Backend:** Node.js, NestJS  
+- **DB:** PostgreSQL, TypeORM  
+- **Frontend:** React, HTML, CSS  
+- **Herramientas:** Git, GitHub, Postman
+
+---
+
+## Proyectos destacados
+- 📌 **Veterinaria & Petshop (Full Stack)** — (link al repo cuando lo tengas)
+- 📌 **Portfolio / Mini proyectos** — (link al repo cuando lo tengas)
+
+---
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/emanuel-moya-044397388/
+- GitHub: https://github.com/osomoya94
