@@ -26,9 +26,47 @@ Me gusta construir **APIs REST**, trabajar con **bases de datos** y armar proyec
 
 ---
 
-## Proyectos destacados
-- 📌 **Veterinaria & Petshop (Full Stack)** — (link al repo cuando lo tengas)
-- 📌 **Portfolio / Mini proyectos** — (link al repo cuando lo tengas)
+## Proyectos Destacados
+
+### 🐾 Veterinaria & Petshop (Proyecto grupal)
+Plataforma para la gestión de veterinaria y petshop: turnos, usuarios, mascotas, productos y órdenes.
+
+**Rol:** Backend Developer (enfoque principal)  
+**Aportes / funcionalidades:**
+- Autenticación y autorización (JWT + roles)
+- Módulos de usuarios, mascotas, veterinarios, sucursales y turnos
+- Gestión de productos/categorías y órdenes
+- Documentación de API y buenas prácticas (Swagger / validaciones)
+- Funcionalidades extra: mailer / chat / integraciones según el módulo
+
+**Stack:** NestJS · TypeScript · TypeORM · PostgreSQL · Swagger · Socket.IO  
+🔗 **Repositorio Backend:** https://github.com/osomoya94/veterinaria-petshop-backend  
+🔗 **Repositorio Frontend:** https://github.com/osomoya94/veterinaria-petshop-frontend  
+🌐 **Demo/API:** https://vetpetshopback.vercel.app
+
+---
+
+### 🛒 Ecommerce Backend (Módulo 4)
+API REST para un e-commerce con estructura modular y endpoints para recursos principales.
+
+**Rol:** Backend Developer  
+**Funcionalidades:**
+- Registro / login y seguridad con JWT
+- CRUD de productos y categorías
+- Órdenes y flujo básico de compra
+- Carga/gestión de archivos (si aplica)
+- Tests y estructura por módulos
+
+**Stack:** NestJS · TypeScript · TypeORM · PostgreSQL · JWT  
+🔗 **Repositorio:** https://github.com/osomoya94/ecommerce-backend
+
+---
+
+### 🧩 Portfolio / Mini proyectos (en progreso)
+Repositorio para reunir prácticas y proyectos cortos.
+
+🔗 **Repositorio:** (cuando lo crees, pegamos el link acá)
+
 
 ---
 
