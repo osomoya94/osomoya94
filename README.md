@@ -2,7 +2,7 @@
 
 **Full Stack Developer (Enfocado en Backend)**  
 Node.js • NestJS • TypeScript • PostgreSQL • React  
-📍 Catamarca, Argentina • 💼 Abierto a trabajar
+📍 Catamarca, Argentina 
 
 ---
 
