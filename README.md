@@ -62,10 +62,11 @@ API REST para un e-commerce con estructura modular y endpoints para recursos pri
 
 ---
 
-### 🧩 Portfolio / Mini proyectos (en progreso)
-Repositorio para reunir prácticas y proyectos cortos.
+## Educación
 
-🔗 **Repositorio:** (cuando lo crees, pegamos el link acá)
+- **Tecnicatura Superior en Desarrollo de Software** — (En curso)
+- **Bootcamp Full Stack Web Developer (Henry)** — (En curso / finalizado)
+- **Profesorado de Matemática** — (En curso, opcional si querés incluirlo)
 
 
 ---
