@@ -72,3 +72,4 @@ API REST para un e-commerce con estructura modular y endpoints para recursos pri
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/emanuel-moya-044397388/
 - GitHub: https://github.com/osomoya94
+- Gmail: emanuelmoya11@gmail.com
