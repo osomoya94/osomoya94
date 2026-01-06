@@ -7,13 +7,12 @@ Node.js • NestJS • TypeScript • PostgreSQL • React
 ---
 
 ## Sobre mí
-Soy estudiante Tecnico Supuperior en Desarrollo de Software y desarrollador full stack enfocado en **backend con Node/NestJS**.  
-Me gusta construir **APIs REST**, trabajar con **bases de datos** y armar proyectos prolijos con buenas prácticas.
 
-- ✅ APIs REST + autenticación (JWT)
-- ✅ PostgreSQL + TypeORM
-- ✅ Trabajo en equipo con Git/GitHub (branches, PRs)
-- ✅ Aprendizaje constante y enfoque en mejorar cada entrega
+Soy desarrollador Full Stack con enfoque en Backend y estudiante (último año) de la Tecnicatura Superior en Desarrollo de Software.
+
+También soy emprendedor: desde 2023 lidero una fábrica de hielo, gestionando operaciones, administración y logística. Esa experiencia me fortaleció en organización, responsabilidad y resolución de problemas.
+
+Me gusta construir APIs REST prolijas, seguras y escalables con buenas prácticas.
 
 ---
 
