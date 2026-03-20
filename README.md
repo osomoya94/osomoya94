@@ -61,11 +61,34 @@ API REST para un e-commerce con estructura modular y endpoints para recursos pri
 
 ---
 
+💻 LoginFullStack (Proyecto individual)
+
+Plataforma full stack para gestión de usuarios y turnos: registro, autenticación y administración de citas.
+
+Rol: Desarrollador Full Stack
+
+Aportes / funcionalidades:
+
+• Registro e inicio de sesión de usuarios  
+• Protección de rutas en frontend  
+• Persistencia de sesión con localStorage  
+• Gestión de turnos (crear, visualizar y cancelar)  
+• Validaciones de negocio en backend:  
+  - fecha no pasada  
+  - mínimo 24 hs de anticipación  
+  - restricción de fines de semana  
+  - horarios permitidos  
+  - prevención de turnos duplicados  
+• Manejo de estado global con Context API  
+• Consumo de API REST y separación frontend/backend  
+
+Tecnologías utilizadas: React · Vite · Node.js · Express · TypeScript · TypeORM · PostgreSQL  
+🔗 Repositorio: https://github.com/osomoya94/loginFullStack
+
 ## Educación
 
 - **Tecnicatura Superior en Desarrollo de Software** — (En curso)
-- **Bootcamp Full Stack Web Developer (Henry)** — (En curso / finalizado)
-
+- **Bootcamp Full Stack Web Developer (Henry)** — (finalizado)
 
 ---
 
