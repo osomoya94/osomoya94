@@ -17,11 +17,11 @@ Me gusta construir APIs REST prolijas, seguras y escalables con buenas práctica
 ---
 
 ## Stack
-- **Lenguajes:** JavaScript, TypeScript  
+- **Lenguajes:** JavaScript, TypeScript , C#
 - **Backend:** Node.js, NestJS  
 - **DB:** PostgreSQL, TypeORM  
 - **Frontend:** React, HTML, CSS  
-- **Herramientas:** Git, GitHub, Postman
+- **Herramientas:** Git, GitHub, Postman, .NET 
 
 ---
 
@@ -41,7 +41,6 @@ Plataforma para la gestión de veterinaria y petshop: turnos, usuarios, mascotas
 **Stack:** NestJS · TypeScript · TypeORM · PostgreSQL · Swagger · Socket.IO  
 🔗 **Repositorio Backend:** https://github.com/osomoya94/veterinaria-petshop-backend  
 🔗 **Repositorio Frontend:** https://github.com/osomoya94/veterinaria-petshop-frontend  
-🌐 **Demo/API:** https://vetpetshopback.vercel.app
 
 ---
 
