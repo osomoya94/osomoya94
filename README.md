@@ -83,6 +83,24 @@ Proyecto Full Stack desarrollado en equipo, donde participé principalmente en B
 🔗 **Backend:** https://github.com/osomoya94/veterinaria-petshop-backend  
 🔗 **Frontend:** https://github.com/osomoya94/veterinaria-petshop-frontend
 
+---
+
+### 💻 LoginFullStack — Proyecto individual
+
+Aplicación Full Stack para gestión de usuarios y turnos, desarrollada de forma individual para integrar frontend y backend en un mismo flujo de trabajo.
+
+**Funcionalidades principales:**
+- Registro e inicio de sesión de usuarios
+- Protección de rutas y persistencia de sesión
+- Gestión de turnos: creación, visualización y cancelación
+- Validaciones de negocio para fechas, horarios, anticipación y turnos duplicados
+- Manejo de estado global con Context API
+- Consumo de API REST y separación frontend/backend
+
+**Stack:** React · Vite · Node.js · Express · TypeScript · TypeORM · PostgreSQL
+
+🔗 **Repositorio:** https://github.com/osomoya94/loginFullStack
+
 ## Educación
 
 - **Tecnicatura Superior en Desarrollo de Software** — En curso
